@@ -1,9 +1,8 @@
-
 project:
   wokwi_id: 0
   top_module: "tt_um_alemlopez22_adder_utnay"
   source_files:
-    - "src/adder_utnay.v"
+    - "adder_utnay.v"
 
   title: "Adder-UTNAY"
   author: "Universidad Tecnologica de Nayarit"
